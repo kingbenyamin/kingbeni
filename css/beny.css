@@ -1,0 +1,345 @@
+.benyamin{
+    background-color:rgb(255, 255, 255);
+    display: flex;
+}
+.work{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+.work li{
+    border-right: 2px solid red;
+    padding: 1rem 1rem;
+}
+.benyamin p{
+    position: relative;
+    left: 230px;
+    font-size: 24px;
+    font-family:Cursive ;
+}
+.danyal{
+    direction: rtl;
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+.danyal li{
+    position:relative;
+    left: 471px;
+    border-left: 2px solid red;
+    padding: 1rem 1rem;
+}
+.work a{
+    text-decoration: none;
+    color: maroon;
+    font-weight: bold;
+    font-family: Sans-serif;
+    opacity: 0.3;
+}
+.danyal a{
+    text-decoration: none;
+    color: maroon;
+    font-weight: bold;
+    font-family: Sans-serif;
+    opacity: 0.3;
+}
+.work a:hover{
+    color:rgb(255, 255, 255);
+    opacity: 1;
+    background-color: black;
+    padding: 15px 1px;
+}
+.danyal a:hover{
+    color:rgb(255, 255, 255); 
+    opacity: 1;
+    background-color: black;
+    padding: 15px 1px;
+}
+header{
+    position: relative;
+    margin-top: 11px;
+     background-image: url(../img/interior-design-Home-1.jpg);
+     background-size:cover;
+     background-repeat: no-repeat;
+    width: 100%;
+    height: 205px;
+}
+.tahoma{
+    position: relative;
+    bottom: 69px;
+    left: 93px;
+    width: 329px;
+    height: 420px;
+}
+.opera{
+    position: relative;
+    float: right;
+    bottom: 360px;
+    width: 322px;
+    right: 268px;
+}
+.kolaps{
+    background-color: rgb(169, 240, 240);
+    width: 100%;
+    height: 285px;
+}
+.reset{
+    background-color: rgb(169, 240, 240);;
+    width: 100%;
+    height: 442px;
+    
+}
+.top{
+    position: relative;
+    font-family: Fantasy;
+    padding-left: 616px;
+    top: 18px;
+}
+.lorem{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 65px;
+    top: 29px;
+}
+.bottom{
+    position: relative;
+    width: 428px;
+    left: 129px;
+    bottom: 35px;
+    cursor: default;
+    opacity: 0.5;
+}
+.reter{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 65px;
+}
+.soshi{
+    position: relative;
+    width: 428px;
+    left: 129px;
+    bottom: 65px;
+    cursor: default;
+    opacity: 0.5;
+}
+.rom{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 65px;
+    bottom: 23px; 
+}
+.ros{
+    position: relative;
+    width: 428px;
+    left: 129px;
+    bottom: 86px;
+    cursor: default;
+    opacity: 0.5;
+}
+.roli{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 425px;
+    top: 34px;
+}
+.random{
+    position: relative;
+    width: 428px;
+    left: 496px;
+    bottom: 31px;
+    cursor: default;
+    opacity: 0.5;
+}
+.porshe{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 425px;
+}
+.mazerati{
+    position: relative;
+    width: 428px;
+    left: 496px;
+    bottom: 62px;
+    cursor: default;
+    opacity: 0.5;
+}
+.bmw{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 425px;
+    bottom: 24px;
+}
+.benz{
+    position: relative;
+    width: 428px;
+    left: 496px; 
+    bottom: 87px;
+    opacity: 0.5;
+    cursor: default;
+}
+.pego{
+    position: relative;
+    top: 8px;
+}
+.samand{
+    top: 8px; 
+}
+.position{
+    display: flex;
+}
+.class{
+    position: relative;
+    width: 586px;
+    left: 401px;
+}
+.bigan{
+position: relative;
+text-align: center;
+}
+.tohid{
+    position: relative;
+    background-color: rgb(52, 44, 70);
+    width: 383px;
+    height: 211px;
+    top: 28px;
+    left: 275px;
+}
+.behnam{
+    position: relative;
+    padding-left: 65px;
+    color: rgb(255, 255, 255);
+}
+.beehhnaamm{
+    position: relative;
+    width: 312px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+.mihan{
+    position: relative;
+    left: 100px;
+    width: 162px;
+    height: 28px;
+    top: 21px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.lenowa{
+    position: relative;
+    background-color: rgb(52, 44, 70);
+    width: 383px;
+    height: 209px;
+    top: 8px;
+    left: 350px;
+}
+.sozoki{
+    position: relative;
+    padding-left: 65px;
+    top: 21px;
+    color: white;
+}
+.landower{
+    position: relative;
+    width: 312px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    top: 20px;
+    color: white;
+    font-size: 17px;
+}
+.messi{
+    position: relative;
+    left: 109px;
+    width: 162px;
+    height: 28px;
+    top: 41px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.momiyai{
+    display: flex;
+}
+.input{
+    position: relative;
+    background-color: rgb(52, 44, 70);
+    width: 100%;
+    height: 74px;
+    top: 30px;
+}
+.child{
+    position: relative;
+    font-family: Monospace;
+    top: 32px;
+    padding-left: 61px;
+    font-size: 17px;
+    color: white;
+}
+.what{
+    position: relative;
+    left: 1123px;
+    width: 175px;
+    height: 26px;
+    bottom: 9px;
+    cursor: pointer;
+}
+.red{
+    font-size: 19px;
+}
+.what:hover{
+    background-color: black;
+    color: white;
+}
+.what:active{
+    color: red;
+    background-color: black;
+}
+.messi:hover{
+   background-color: black;
+   color: rgb(255, 255, 255);
+}
+.messi:active{
+   background-color: black;
+   color: red;
+}
+.mihan:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.mihan:active{
+    background-color: black;
+    color: red;
+}
+.benz:hover{
+opacity: 1;
+}
+.mazerati:hover{
+    opacity: 1;
+}
+.random:hover{
+    opacity: 1;
+}
+.bottom:hover{
+    opacity: 1;
+}
+.soshi:hover{
+    opacity: 1;
+}
+.ros:hover{
+    opacity: 1;
+}
+::selection{
+    background-color: black;
+    color: white;
+}
